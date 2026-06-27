@@ -9,12 +9,10 @@ A machine learning study predicting all-cause mortality in the U.S. using classi
 ## Setup
 
 ```bash
-git clone https://github.com/your-org/your-repo.git
-cd your-repo
+git clone https://github.com/helenachen03/mortality-rate-prediction.git
+cd mortality-rate-prediction
 pip install -r requirements.txt
 ```
-
-Then launch Jupyter and run the notebooks in order: data cleaning → classification → regression → unsupervised.
 
 ---
 
